@@ -1,0 +1,1 @@
+para rodar o projeto de conta bancária com o Jade, adicione e configure o jade ao projeto.
